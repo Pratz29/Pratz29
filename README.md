@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pratz29
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning how to make web applications.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development,Programming Languages
+- 🌱 I’m currently learning about Cyber Security.
+- 💞️ I’m looking to collaborate on something interesting.
 - 📫 to reach me, pls email me on jha.pratik2002@gmail.com
 
 <!---
