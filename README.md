@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Pratik Jha</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Developer;Problem+Solving+Geek;Data+Analystics+Enthusiast;Avid+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Developer;Problem+Solving+Geek;Data+Analytics+Enthusiast;Avid+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
